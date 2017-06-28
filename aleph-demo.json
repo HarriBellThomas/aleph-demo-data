@@ -10,8 +10,8 @@
    "places": [
        {
           "id": "1",
-          "lat": 100,
-          "long": 100,
+          "lat": 100.0,
+          "long": 100.0,
           "name": "Main Stage",
           "queuetime": 5
        }
