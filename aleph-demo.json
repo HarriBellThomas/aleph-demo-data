@@ -6,6 +6,8 @@
    "logo": "http:\/\/imgur.com\/gallery\/3FyKfCt\/",
    "website": "http:\/\/www.jesusmaybagll.com\/",
    "mainColour": "#FFFFFF",
+   "startTime": 0,
+   "endTime": 0,
 
    "places": [
        {
@@ -59,7 +61,7 @@
 
    "generalInformation": "\n\t<h1>Title<\/h1>\n\tStuff like cloakroom, fire, random stuff\n\t<h1>Another Title<\/h1>\n\t<h2>Maybe even a subtitle<\/h2>\n\t",
 
-   "committee":{
+   "committee": {
       "clickableEmails": false,
       "roleAsTitle": false,
       "roles": [
