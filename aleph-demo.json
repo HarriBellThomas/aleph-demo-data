@@ -1,0 +1,75 @@
+{
+   "versionNo":"1",
+   "versionDate":"27-06-2017 09:51:06",
+   "ballId":"1",
+   "name":"Jesus May Ball 2017",
+   "theme":"Between the Lines",
+   "logo":"http:\/\/imgur.com\/gallery\/3FyKfCt\/",
+   "website":"http:\/\/www.jesusmayball.com\/",
+   "mainColour":"#FFFFFF",
+
+   "musicEnts":[
+      {
+         "name":"Laura Mvula",
+         "description":"bae",
+         "icon":"http:\/\/imgur.com\/gallery\/3FyKfCt\/",
+         "startTime":"00:00",
+         "endTime":"01:00",
+         "location":"North Court",
+         "locationId":"1",
+         "website":"http:\/\/laura.com\/",
+         "autoSubscribe":true
+      },
+      {
+         "name":"Fickle Friends",
+         "description":"not-bae",
+         "icon":"http:\/\/imgur.com\/gallery\/3FyKfCt\/",
+         "startTime":"00:00",
+         "endTime":"01:00",
+         "location":"North Court",
+         "locationId":1,
+         "website":"http:\/\/fickle.com\/",
+         "autoSubscribe":false
+      }
+   ],
+
+   "foodDrink":[
+      {
+         "name":"Aromi Lasgne",
+         "description":"Power Suckers",
+         "allNight":false,
+         "startTime":"20:00",
+         "endTime":"21:00",
+         "location":"First Court",
+         "locationId":2
+      }
+   ],
+
+   "generalInformation":"\n\t<h1>Title<\/h1>\n\tStuff like cloakroom, fire, random stuff\n\t<h1>Another Title<\/h1>\n\t<h2>Maybe even a subtitle<\/h2>\n\t",
+
+   "committee":{
+      "clickableEmails":false,
+      "roleAsTitle":false,
+      "members":[
+         {
+            "name1":"David Adeboye",
+            "name2":"Henry Mattinson",
+            "role":"President",
+            "email":"president@jesusmayball.com"
+         },
+         {
+            "name2":"Tom Fisher",
+            "role":"Treasurer",
+            "email":"treasurer@jesusmayball.com"
+         }
+      ]
+   },
+
+   "sponsors":[
+      {
+         "name":"Lafayette Photography",
+         "logo":"http:\/\/imgur.com\/gallery\/3FyKfCt\/",
+         "website":"http:\/\/lafayette.co.uk\/"
+      }
+   ]
+}
