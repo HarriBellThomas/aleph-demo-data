@@ -9,7 +9,7 @@
 
    "places": [
        {
-          "id": "1",
+          "id": 1,
           "lat": 100.0,
           "long": 100.0,
           "name": "Main Stage",
