@@ -73,7 +73,7 @@
         "coverPhotos": ["a", "a"],
         "startTime":0,
         "endTime":0,
-        "place":"1",
+        "place":"2",
         "website": "http:\/\/laura.com\/",
         "rank": 1
      },
@@ -109,7 +109,7 @@
         "coverPhotos": ["a", "a"],
         "startTime":0,
         "endTime":0,
-        "place":"1",
+        "place":"3",
         "website": "http:\/\/laura.com\/",
         "rank": 2
      },
@@ -121,7 +121,7 @@
         "coverPhotos": ["a", "a"],
         "startTime":0,
         "endTime":0,
-        "place":"1",
+        "place":"4",
         "website": "http:\/\/laura.com\/",
         "rank": 2
      }
