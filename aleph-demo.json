@@ -30,7 +30,18 @@
          "place":"1",
          "website": "http:\/\/laura.com\/",
          "rank": 0
-      }
+     },
+     {
+        "name":"Laura Mvula #2",
+        "description":"bae",
+        "icon":"http:\/\/imgur.com\/gallery\/3FyKfCt\/",
+        "coverPhotos": ["a", "a"],
+        "startTime":0,
+        "endTime":0,
+        "place":"1",
+        "website": "http:\/\/laura.com\/",
+        "rank": 1
+     }
    ],
 
    "nonMusicEnts": [
@@ -44,7 +55,18 @@
          "place": "1",
          "website": "http:\/\/laura.com\/",
          "rank": 0
-      }
+     },
+     {
+        "name": "Non Ent Laura Mvula #2",
+        "description": "bae",
+        "icon": "http:\/\/imgur.com\/gallery\/3FyKfCt\/",
+        "coverPhotos": ["a", "a"],
+        "startTime": 0,
+        "endTime": 0,
+        "place": "1",
+        "website": "http:\/\/laura.com\/",
+        "rank": 0
+     }
    ],
 
 
