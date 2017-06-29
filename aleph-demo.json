@@ -12,9 +12,30 @@
    "places": [
        {
           "id": 1,
-          "lat": 100.0,
-          "long": 100.0,
+          "lat": 52.209502,
+          "long": 0.120970,
           "name": "Main Stage",
+          "queuetime": 5
+       },
+       {
+          "id": 2,
+          "lat": 52.210101,
+          "long": 0.122907,
+          "name": "Second Stage",
+          "queuetime": 5
+       },
+       {
+          "id": 3,
+          "lat": 52.209164,
+          "long": 0.123883,
+          "name": "Silent Disco",
+          "queuetime": 5
+       },
+       {
+          "id": 4,
+          "lat": 52.208684,
+          "long": 0.122633,
+          "name": "Jazz Stage",
           "queuetime": 5
        }
    ],
