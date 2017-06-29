@@ -32,7 +32,7 @@
          "rank": 0
      },
      {
-        "name":"Laura Mvula #2",
+        "name":"B and the Jukeboys",
         "description":"bae",
         "icon":"http:\/\/imgur.com\/gallery\/3FyKfCt\/",
         "coverPhotos": ["a", "a"],
@@ -41,12 +41,67 @@
         "place":"1",
         "website": "http:\/\/laura.com\/",
         "rank": 1
+     },
+     {
+        "name":"Antarctic Monkeys",
+        "description":"bae",
+        "icon":"http:\/\/imgur.com\/gallery\/3FyKfCt\/",
+        "coverPhotos": ["a", "a"],
+        "startTime":0,
+        "endTime":0,
+        "place":"1",
+        "website": "http:\/\/laura.com\/",
+        "rank": 1
+     },
+     {
+        "name":"The Shit DJ",
+        "description":"bae",
+        "icon":"http:\/\/imgur.com\/gallery\/3FyKfCt\/",
+        "coverPhotos": ["a", "a"],
+        "startTime":0,
+        "endTime":0,
+        "place":"1",
+        "website": "http:\/\/laura.com\/",
+        "rank": 2
+     },
+     {
+        "name":"Fickle Friends",
+        "description":"bae",
+        "icon":"http:\/\/imgur.com\/gallery\/3FyKfCt\/",
+        "coverPhotos": ["a", "a"],
+        "startTime":0,
+        "endTime":0,
+        "place":"1",
+        "website": "http:\/\/laura.com\/",
+        "rank": 2
+     },
+     {
+        "name":"David Singing",
+        "description":"bae",
+        "icon":"http:\/\/imgur.com\/gallery\/3FyKfCt\/",
+        "coverPhotos": ["a", "a"],
+        "startTime":0,
+        "endTime":0,
+        "place":"1",
+        "website": "http:\/\/laura.com\/",
+        "rank": 2
+     },
+     {
+        "name":"Tom Fisher's Smooth Jazz",
+        "description":"bae",
+        "icon":"http:\/\/imgur.com\/gallery\/3FyKfCt\/",
+        "coverPhotos": ["a", "a"],
+        "startTime":0,
+        "endTime":0,
+        "place":"1",
+        "website": "http:\/\/laura.com\/",
+        "rank": 2
      }
    ],
 
    "nonMusicEnts": [
       {
-         "name": "Non Ent Laura Mvula",
+         "name": "Sillhouette Man",
          "description": "bae",
          "icon": "http:\/\/imgur.com\/gallery\/3FyKfCt\/",
          "coverPhotos": ["a", "a"],
@@ -57,7 +112,7 @@
          "rank": 0
      },
      {
-        "name": "Non Ent Laura Mvula #2",
+        "name": "Tom Fisher Dancing",
         "description": "bae",
         "icon": "http:\/\/imgur.com\/gallery\/3FyKfCt\/",
         "coverPhotos": ["a", "a"],
@@ -65,7 +120,62 @@
         "endTime": 0,
         "place": "1",
         "website": "http:\/\/laura.com\/",
-        "rank": 0
+        "rank": 1
+     },
+     {
+        "name": "Harri's Dog",
+        "description": "bae",
+        "icon": "http:\/\/imgur.com\/gallery\/3FyKfCt\/",
+        "coverPhotos": ["a", "a"],
+        "startTime": 0,
+        "endTime": 0,
+        "place": "1",
+        "website": "http:\/\/laura.com\/",
+        "rank": 1
+     },
+     {
+        "name": "Jane Street Openhouse",
+        "description": "bae",
+        "icon": "http:\/\/imgur.com\/gallery\/3FyKfCt\/",
+        "coverPhotos": ["a", "a"],
+        "startTime": 0,
+        "endTime": 0,
+        "place": "1",
+        "website": "http:\/\/laura.com\/",
+        "rank": 2
+     },
+     {
+        "name": "Sumo Wrestling",
+        "description": "bae",
+        "icon": "http:\/\/imgur.com\/gallery\/3FyKfCt\/",
+        "coverPhotos": ["a", "a"],
+        "startTime": 0,
+        "endTime": 0,
+        "place": "1",
+        "website": "http:\/\/laura.com\/",
+        "rank": 1
+     },
+     {
+        "name": "Man vs. Food",
+        "description": "bae",
+        "icon": "http:\/\/imgur.com\/gallery\/3FyKfCt\/",
+        "coverPhotos": ["a", "a"],
+        "startTime": 0,
+        "endTime": 0,
+        "place": "1",
+        "website": "http:\/\/laura.com\/",
+        "rank": 1
+     },
+     {
+        "name": "Meme Contest",
+        "description": "bae",
+        "icon": "http:\/\/imgur.com\/gallery\/3FyKfCt\/",
+        "coverPhotos": ["a", "a"],
+        "startTime": 0,
+        "endTime": 0,
+        "place": "1",
+        "website": "http:\/\/laura.com\/",
+        "rank": 1
      }
    ],
 
