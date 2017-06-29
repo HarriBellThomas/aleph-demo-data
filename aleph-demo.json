@@ -199,13 +199,26 @@
          "id": 1,
          "name": "Aromi Lasgne",
          "description": "Power Suckers",
+         "type": "F",
          "imageURL": "a",
          "startTime": 0,
          "endTime": 0,
          "place": "123",
          "website": "a",
          "available": true
-      }
+     },
+     {
+       "id": 1,
+       "name": "David's Terrible Cocktail Bar",
+       "description": "Power Suckers",
+       "type": "D",
+       "imageURL": "a",
+       "startTime": 0,
+       "endTime": 0,
+       "place": "123",
+       "website": "a",
+       "available": true
+    }
    ],
 
    "generalInformation": "\n\t<h1>Title<\/h1>\n\tStuff like cloakroom, fire, random stuff\n\t<h1>Another Title<\/h1>\n\t<h2>Maybe even a subtitle<\/h2>\n\t",
