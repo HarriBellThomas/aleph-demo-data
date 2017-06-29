@@ -1,12 +1,7 @@
 {
     "versionNo": 0,
     "feed": [
-        {
-            "id": 0,
-            "title": "UPDATE We done f*cked up",
-            "desc": "!! More information about how we done f*cked up",
-            "timestamp": 123456
-        },
+
         {
             "id": 1,
             "title": "We done f*cked up",
