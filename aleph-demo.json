@@ -319,12 +319,35 @@
       ]
    },
 
-   "sponsors":[
+   "sponsors": [
       {
          "name": "Lafayette Photography",
          "description": "a",
          "logo": "http:\/\/imgur.com\/gallery\/3FyKfCt\/",
-         "website": "http:\/\/lafayette.co.uk\/"
-      }
+         "website": "http:\/\/lafayette.co.uk\/",
+         "rank": 1
+     },
+     {
+        "name": "Aromi",
+        "description": "a",
+        "logo": "http:\/\/imgur.com\/gallery\/3FyKfCt\/",
+        "website": "http:\/\/lafayette.co.uk\/",
+        "rank": 2
+     }
+  ],
+
+   "sponsorTiers": [
+       {
+           "rank": 1,
+           "name": "Gold"
+       },
+       {
+           "rank": 2,
+           "name": "Silver"
+       },
+       {
+           "rank": 3,
+           "name": "Bronze"
+       }
    ]
 }
