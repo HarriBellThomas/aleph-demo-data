@@ -288,8 +288,32 @@
             "role": "President",
             "email": "president@jesusmayball.com",
             "members": [
-                { "name": "Henry", "imageURL": "a" },
+                { "name": "Elle", "imageURL": "a" },
+                { "name": "Daniel", "imageURL": "a" }
+            ]
+         },
+         {
+            "role": "Treasurer",
+            "email": "president@jesusmayball.com",
+            "members": [
                 { "name": "Henry", "imageURL": "a" }
+            ]
+         },
+         {
+            "role": "Technical",
+            "email": "president@jesusmayball.com",
+            "members": [
+                { "name": "David", "imageURL": "a" }
+            ]
+         },
+         {
+            "role": "Design",
+            "email": "president@jesusmayball.com",
+            "members": [
+                { "name": "Addy", "imageURL": "a" },
+                { "name": "Sofia", "imageURL": "a" },
+                { "name": "Edward", "imageURL": "a" },
+                { "name": "Matthew", "imageURL": "a" }
             ]
          }
       ]
