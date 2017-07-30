@@ -12,39 +12,82 @@
    "places": [
        {
           "id": 1,
-          "lat": 52.209502,
+          "lat": 52.209413,
           "long": 0.120970,
           "name": "Main Stage",
-          "queuetime": 5
+          "queuetime": 0
        },
        {
           "id": 2,
-          "lat": 52.210101,
-          "long": 0.122907,
-          "name": "Second Stage",
-          "queuetime": 5
+          "lat": 52.210108,
+          "long": 0.122901,
+          "name": "Cabaret Stage",
+          "queuetime": 0
        },
        {
           "id": 3,
-          "lat": 52.209164,
-          "long": 0.123883,
-          "name": "Silent Disco",
-          "queuetime": 5
+          "lat": 52.209055,
+          "long": 0.124143,
+          "name": "The Chapel",
+          "queuetime": 0
        },
        {
           "id": 4,
-          "lat": 52.208684,
-          "long": 0.122633,
-          "name": "Jazz Stage",
-          "queuetime": 5
+          "lat": 52.209183,
+          "long": 0.123913,
+          "name": "The Secret Garden",
+          "queuetime": 0
+       }
+      {
+          "id": 5,
+          "lat": 52.208774,
+          "long": 0.122775,
+          "name": "EY Jazz Age Stage",
+          "queuetime": 0
        }
    ],
 
    "musicEnts": [
       {
-         "id": 11,
+        "id": 001,
+        "name":"Dance Core",
+        "description":"Dance Dance Dance",
+        "icon":"https:\/\/i.ytimg.com\/vi\/8FtokXJYLYY\/maxresdefault.jpg",
+        "coverPhotos": ["a", "a"],
+        "startTime":1497906000,
+        "endTime":1497908700,
+        "place":"1",
+        "website": "http:\/\/laura.com\/",
+        "rank": 3
+     },
+     {
+        "id": 002,
+        "name":"B and the Jukeboys",
+        "description":"The Jesus May Ball 2017 committee are pleased to announce that former-student band B & the Jukeboys will be returning to dazzle audiences with their magnificent covers of your favourite tunes. Catch them on the main stage before the clock strikes 12.",
+        "icon":"http:\/\/jesusmayball.com\/page-assets\/img\/b-and-the-jukeboys.jpg",
+        "coverPhotos": ["a", "a"],
+        "startTime":1497909600,
+        "endTime":1497912300,
+        "place":"1",
+        "website": "http:\/\/laura.com\/",
+        "rank": 2
+     },
+     {
+        "id": 003,
+        "name":"Fickle Friends",
+        "description":"Fickle Friends is an English indie pop band from Brighton. The band formed in 2013, and is made up of Natassja Shiner, Harry Herrington, Chris Hall, Sam Morris and Jack Wilson.",
+        "icon":"http:\/\/ksassets.timeincuk.net\/wp\/uploads\/sites\/55\/2016\/11\/2016_FickleFriends_Press_071116.jpg",
+        "coverPhotos": ["a", "a"],
+        "startTime":1497913200,
+        "endTime":1497916800,
+        "place":"1",
+        "website": "http:\/\/www.ficklefriends.co.uk\/",
+        "rank": 1
+     },
+     {
+         "id": 004,
          "name":"Laura Mvula",
-         "description":"bae",
+         "description":"Laura Mvula is a British recording artist, songwriter and pianist. Her debut album, Sing to the Moon, was released on 4 March 2013 with an orchestral re-recording released on 11 August 2014.",
          "icon":"http:\/\/jesusmayball.com\/page-assets\/img\/laura-mvula.jpg",
          "coverPhotos": ["a", "a"],
          "startTime":1497916800,
@@ -54,82 +97,82 @@
          "rank": 0
      },
      {
-        "id": 12,
-        "name":"B and the Jukeboys",
-        "description":"bae",
-        "icon":"http:\/\/jesusmayball.com\/page-assets\/img\/b-and-the-jukeboys.jpg",
-        "coverPhotos": ["a", "a"],
-        "startTime":1497913200,
-        "endTime":1497915000,
-        "place":"1",
-        "website": "http:\/\/laura.com\/",
-        "rank": 1
+         "id": 005,
+         "name":"Truly Medly Deeply",
+         "description":"Truly Medley Deeply was set up in 2010 by three teenage undergraduates at Cambridge University. Since the beginning, the band’s unique approach has been to take the best parts of songs and condense them into beautifully-flowing medleys. An incredible hybrid of live band, DJ and jukebox, TMD effortlessly mix between songs, providing slick, seamless arrangements of throwback tunes and contemporary favourites for every audience.",
+         "icon":"https:\/\/static1.squarespace.com\/static\/58dbc89a893fc01cfcc438f5\/58dbe7f05016e15e28a4a264\/58dbeee3b3db2b35751dee73\/1490809409975\/TMD12777.jpg",
+         "coverPhotos": ["a", "a"],
+         "startTime":1497921300,
+         "endTime":1497924000,
+         "place":"1",
+         "website": "https:\/\/www.trulymedleydeeply.com\/",
+         "rank": 3
      },
      {
-        "id": 13,
-        "name":"Antarctic Monkeys",
-        "description":"bae",
-        "icon":"https:\/\/i.imgur.com\/H6wEvLO.jpg",
+         "id": 006,
+         "name":"Julian Banks",
+         "description":"This EDM DJ",
+         "icon":"https:\/\/i.axs.com\/2016/06\/promoted-media_5752eea1b476a.jpg",
+         "coverPhotos": ["a", "a"],
+         "startTime":1497924000,
+         "endTime":1497927600,
+         "place":"1",
+         "website": "https:\/\/www.trulymedleydeeply.com\/",
+         "rank": 3
+     },
+     {
+         "id": 007,
+         "name":"Emma Folk Band",
+         "description":"Standard Folk Band",
+         "icon":"https:\/\/static1.squarespace.com\/static\/58dbc89a893fc01cfcc438f5\/58dbe7f05016e15e28a4a264\/58dbeee3b3db2b35751dee73\/1490809409975\/TMD12777.jpg",
+         "coverPhotos": ["a", "a"],
+         "startTime":1497929400,
+         "endTime":1497933000,
+         "place":"1",
+         "website": "https:\/\/www.trulymedleydeeply.com\/",
+         "rank": 3
+     },
+     {
+        "id": 008,
+        "name":"Miles Stopher",
+        "description":"Student at Jesus",
+        "icon":"https:\/\/i.ytimg.com\/vi\/bpOSxM0rNPM\/hqdefault.jpg",
         "coverPhotos": ["a", "a"],
-        "startTime":1497909600,
-        "endTime":1497913200,
+        "startTime":1497902400,
+        "endTime":1497905100,
+        "place":"2",
+        "website": "http:\/\/laura.com\/",
+        "rank": 3
+     },
+     {
+        "id": 009,
+        "name":"Rob Oldham",
+        "description":"I don't even know",
+        "icon":"https:\/\/i.ytimg.com\/vi\/bpOSxM0rNPM\/hqdefault.jpg",
+        "coverPhotos": ["a", "a"],
+        "startTime":1497906000,
+        "endTime":1497907800,
         "place":"2",
         "website": "http:\/\/laura.com\/",
         "rank": 1
      },
      {
-        "id": 14,
-        "name":"The Shit DJ",
-        "description":"bae",
-        "icon":"https:\/\/i.imgur.com\/CFEdEHi.jpg",
-        "coverPhotos": ["a", "a"],
-        "startTime":1497924000,
-        "endTime":1497931200,
-        "place":"1",
-        "website": "http:\/\/laura.com\/",
-        "rank": 2
-     },
-     {
-        "id": 15,
-        "name":"Fickle Friends",
-        "description":"bae",
+        "id": 010,
+        "name":"Tom Allen",
+        "description":"Who even knows?",
         "icon":"https:\/\/i.imgur.com\/KnqrIBA.jpg",
         "coverPhotos": ["a", "a"],
-        "startTime":1497920400,
-        "endTime":1497924000,
+        "startTime":1497907800,
+        "endTime":1497909600,
         "place":"1",
         "website": "http:\/\/laura.com\/",
         "rank": 2
      },
-     {
-        "id": 16,
-        "name":"David Singing",
-        "description":"bae",
-         "icon":"https:\/\/i.imgur.com\/eptXC38.jpg",
-        "coverPhotos": ["a", "a"],
-        "startTime":1497931200,
-        "endTime":1497931205,
-        "place":"3",
-        "website": "http:\/\/laura.com\/",
-        "rank": 2
-     },
-     {
-        "id": 17,
-        "name":"Tom Fisher's Smooth Jazz",
-        "description":"bae",
-        "icon":"https:\/\/i.imgur.com\/AP6Z6Lw.jpg",
-        "coverPhotos": ["a", "a"],
-        "startTime":1497902400,
-        "endTime":1497906000,
-        "place":"4",
-        "website": "http:\/\/laura.com\/",
-        "rank": 2
-     }
    ],
 
    "nonMusicEnts": [
        {
-         "id": 21,
+         "id": 101,
          "name": "Sillhouette Man",
          "description": "bae",
          "icon":"https:\/\/i.imgur.com\/eptXC38.jpg",
@@ -141,7 +184,7 @@
          "rank": 0
      },
      {
-        "id": 22,
+        "id": 102,
         "name": "Tom Fisher Dancing",
         "description": "bae",
         "icon":"https:\/\/i.imgur.com\/H6wEvLO.jpg",
@@ -153,7 +196,7 @@
         "rank": 1
      },
      {
-        "id": 23,
+        "id": 103,
         "name": "Harri's Dog",
         "description": "bae",
         "icon":"https:\/\/i.imgur.com\/AP6Z6Lw.jpg",
@@ -165,7 +208,7 @@
         "rank": 1
      },
      {
-        "id": 24,
+        "id": 104,
         "name": "Jane Street Openhouse",
         "description": "bae",
          "icon":"https:\/\/i.imgur.com\/eptXC38.jpg",
@@ -177,7 +220,7 @@
         "rank": 2
      },
      {
-       "id": 25,
+       "id": 105,
         "name": "Sumo Wrestling",
         "description": "bae",
         "icon":"https:\/\/i.imgur.com\/CFEdEHi.jpg",
@@ -189,7 +232,7 @@
         "rank": 1
      },
      {
-        "id": 26,
+        "id": 106,
         "name": "Man vs. Food",
         "description": "bae",
         "icon":"https:\/\/i.imgur.com\/H6wEvLO.jpg",
@@ -201,7 +244,7 @@
         "rank": 1
      },
      {
-        "id": 27,
+        "id": 107,
         "name": "Meme Contest",
         "description": "bae",
         "icon":"https:\/\/i.imgur.com\/AP6Z6Lw.jpg",
@@ -217,7 +260,7 @@
 
    "foodDrink":[
        {
-         "id": 31,
+         "id": 201,
          "name": "Aromi Lasgne",
          "description": "Power Suckers",
          "type": "F",
@@ -229,7 +272,7 @@
          "available": true
      },
      {
-       "id": 32,
+       "id": 202,
        "name": "David's Terrible Cocktail Bar",
        "description": "Power Suckers",
        "type": "D",
@@ -241,7 +284,7 @@
        "available": true
     },
     {
-         "id": 33,
+         "id": 203,
          "name": "MilkShake Mandem",
          "description": "Peng Tings",
          "type": "F",
@@ -253,7 +296,7 @@
          "available": true
      },
      {
-       "id": 34,
+       "id": 204,
        "name": "Bacon Men",
        "description": "men who serve bacon",
        "type": "F",
@@ -265,7 +308,7 @@
        "available": true
     },
     {
-       "id": 35,
+       "id": 205,
        "name": "Shots",
        "description": "Shots Shots Shots Shots",
        "type": "D",
@@ -294,26 +337,136 @@
          },
          {
             "role": "Treasurer",
-            "email": "president@jesusmayball.com",
+            "email": "treasurer@jesusmayball.com",
             "members": [
-                { "name": "Henry", "imageURL": "a" }
+                { "name": "Ted Roberts", "imageURL": "a" }
+            ]
+         },
+         {
+            "role": "Secretary",
+            "email": "secretary@jesusmayball.com",
+            "members": [
+                { "name": "Ellie Aris", "imageURL": "a" }
+            ]
+         },
+         {
+            "role": "Food",
+            "email": "food@jesusmayball.com",
+            "members": [
+                { "name": "Lizzie Reeves", "imageURL": "a" }
+            ]
+         },
+         {
+            "role": "Drinks",
+            "email": "drinks@jesusmayball.com",
+            "members": [
+                { "name": "Izaak Jephson", "imageURL": "a" }
+            ]
+         },
+         {
+            "role": "Main Ents",
+            "email": "main-ents@jesusmayball.com",
+            "members": [
+                { "name": "Nick Pearson", "imageURL": "a" }
+            ]
+         },
+         {
+            "role": "Non-Musical Ents",
+            "email": "ents@jesusmayball.com",
+            "members": [
+                { "name": "Lara Sullivan", "imageURL": "a" }
+            ]
+         },
+         {
+            "role": "Student Ents",
+            "email": "student-ents@jesusmayball.com",
+            "members": [
+                { "name": "Kayleigh Dawson", "imageURL": "a" }
             ]
          },
          {
             "role": "Technical",
-            "email": "president@jesusmayball.com",
+            "email": "technical@jesusmayball.com",
             "members": [
-                { "name": "David", "imageURL": "a" }
+                { "name": "David Adeboye", "imageURL": "a" }
             ]
          },
          {
-            "role": "Design",
-            "email": "president@jesusmayball.com",
+            "role": "Infrastructure",
+            "email": "infrastructure@jesusmayball.com",
             "members": [
-                { "name": "Addy", "imageURL": "a" },
-                { "name": "Sofia", "imageURL": "a" },
-                { "name": "Edward", "imageURL": "a" },
-                { "name": "Matthew", "imageURL": "a" }
+                { "name": "Johannes Theron", "imageURL": "a" }
+            ]
+         },
+         {
+            "role": "Security",
+            "email": "security@jesusmayball.com",
+            "members": [
+                { "name": "Robert Cronshaw", "imageURL": "a" }
+            ]
+         },
+         {
+            "role": "Staffing",
+            "email": "security@jesusmayball.com",
+            "members": [
+                { "name": "Edward Parker Humphreys", "imageURL": "a" },
+                { "name": "James Kendall", "imageURL": "a" },
+            ]
+         },
+         {
+            "role": "Ticketing",
+            "email": "ticketing@jesusmayball.com",
+            "members": [
+                { "name": "Keerthi Senthil", "imageURL": "a" }
+            ]
+         },
+         {
+            "role": "Head of Design",
+            "email": "design@jesusmayball.com",
+            "members": [
+                { "name": "Amy Smith", "imageURL": "a" }
+            ]
+         },
+         {
+            "role": "Deputy Head of Design",
+            "email": "lisa@jesusmayball.com",
+            "members": [
+                { "name": "Lisa Chan", "imageURL": "a" }
+            ]
+         },
+         {
+            "role": "Design & Publicity",
+            "email": "danielle@jesusmayball.com",
+            "members": [
+                { "name": "Danielle Forster", "imageURL": "a" }
+            ]
+         },
+         {
+            "role": "Design & Sponsorship",
+            "email": "matthew@jesusmayball.com",
+            "members": [
+                { "name": "Matthew Seccombe", "imageURL": "a" }
+            ]
+         },
+         {
+            "role": "Design & Green",
+            "email": "sofia@jesusmayball.com",
+            "members": [
+                { "name": "Sofia Clini", "imageURL": "a" }
+            ]
+         },
+         {
+            "role": "Design & Social Media",
+            "email": "addy@jesusmayball.com",
+            "members": [
+                { "name": "Addy Metrick", "imageURL": "a" }
+            ]
+         },
+         {
+            "role": "Webmaster",
+            "email": "webmaster@jesusmayball.com",
+            "members": [
+                { "name": "Josh Brambrick", "imageURL": "a" }
             ]
          }
       ]
