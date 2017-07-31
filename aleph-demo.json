@@ -497,44 +497,37 @@
 
 	"sponsors": [{
 			"name": "Lafayette Photography",
-			"description": "a",
+			"description": "Lafayette is a specialist in academic photography and as such, has a proud tradition of providing high quality services to the UK’s finest educational institutions.",
 			"logo": "https:\/\/media.cylex-uk.co.uk\/companies\/1687\/1060\/logo\/logo.jpg",
 			"website": "http:\/\/lafayette.co.uk\/",
 			"rank": 1
 		},
 		{
-			"name": "Aromi",
-			"description": "a",
-			"logo": "http:\/\/imgur.com\/gallery\/3FyKfCt\/",
-			"website": "http:\/\/lafayette.co.uk\/",
-			"rank": 2
-		},
-		{
 			"name": "Fireball",
-			"description": "a",
-			"logo": "http:\/\/imgur.com\/gallery\/3FyKfCt\/",
+			"description": "FIREBALL CINNAMON WHISKY NEEDS NO INTRODUCTION.",
+			"logo": "https:\/\/i.ytimg.com\/vi\/bZBXjrAj7Sk\/maxresdefault.jpg",
 			"website": "http:\/\/lafayette.co.uk\/",
 			"rank": 1
 		},
 		{
-			"name": "Cardinality",
-			"description": "a",
+			"name": "NOVI",
+			"description": "Dance nights, art exhibitions and pop-up dining events, spiced up with an industrial-meets-70s bar.",
 			"logo": "http:\/\/imgur.com\/gallery\/3FyKfCt\/",
-			"website": "http:\/\/lafayette.co.uk\/",
+			"website": "http:\/\/static1.squarespace.com\/static\/55410f52e4b0269a2d780702\/t\/56bf1f8860b5e979f7535dd2\/1455366026778/NOVI+Logo_Diamond.jpg?format=300w",
 			"rank": 1
 		},
 		{
-			"name": "The Cambridge Union",
-			"description": "a",
-			"logo": "http:\/\/imgur.com\/gallery\/3FyKfCt\/",
-			"website": "http:\/\/lafayette.co.uk\/",
+			"name": "EY",
+			"description": "Building a better working world",
+			"logo": "http:\/\/www.ey.com\/ecimages\/EY.gif",
+			"website": "http:\/\/www.ey.com\/",
 			"rank": 3
 		},
 		{
-			"name": "Caff",
-			"description": "Caff is junk",
+			"name": "tpp",
+			"description": "The Phoenix Partnership is a software company based in Horsforth, Leeds. TPP develop and supply clinical software including SystmOne, which currently holds over 30 million patient records in the UK.",
 			"logo": "http:\/\/imgur.com\/gallery\/3FyKfCt\/",
-			"website": "http:\/\/lafayette.co.uk\/",
+			"website": "http:\/\/www.tpp-uk.com\/",
 			"rank": 3
 		}
 	],
