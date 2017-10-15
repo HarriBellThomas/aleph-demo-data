@@ -53,13 +53,6 @@
 		},
 		{
 			"id": 7,
-			"lat": 52.20914018,
-			"long": 0.12391537,
-			"name": "Romance Court",
-			"queuetime": 0
-		},
-		{
-			"id": 8,
 			"lat": 52.20930454,
 			"long": 0.12322873,
 			"name": "Mystery Court",
@@ -70,7 +63,7 @@
 	"musicEnts": [{
 			"id": 1,
 			"name": "Dance Core",
-			"description": "Dance Dance Dance",
+			"description": "Experience a masterclass in all things dance from the University dancesport team as they kick off the night, showing off their most famous numbers! If you're lucky you may catch a glimpse of them enjoying the ball themselves",
 			"icon": "https:\/\/i.ytimg.com\/vi\/8FtokXJYLYY\/maxresdefault.jpg",
 			"coverPhotos": ["a", "a"],
 			"startTime": 1497906000,
@@ -82,7 +75,7 @@
 		{
 			"id": 2,
 			"name": "B and the Jukeboys",
-			"description": "The Jesus May Ball 2017 committee are pleased to announce that former-student band B & the Jukeboys will be returning to dazzle audiences with their magnificent covers of your favourite tunes. Catch them on the main stage before the clock strikes 12.",
+			"description": "You thought you’d seen the last of them last year... you thought wrong, see a Jesus favourite reunited again to sing covers of your favourite tunes.",
 			"icon": "http:\/\/jesusmayball.com\/page-assets\/img\/b-and-the-jukeboys.jpg",
 			"coverPhotos": ["a", "a"],
 			"startTime": 1497909600,
@@ -94,7 +87,7 @@
 		{
 			"id": 3,
 			"name": "Fickle Friends",
-			"description": "Fickle Friends is an English indie pop band from Brighton. The band formed in 2013, and is made up of Natassja Shiner, Harry Herrington, Chris Hall, Sam Morris and Jack Wilson.",
+			"description": "Fickle Friends is an up and coming Indie Pop Band. They released their first single in 2014 and have since played over 50 festivals and a sold out tour. The band were described by NME as having \"Bouncing synths, killer pop-hooks and on-point lyrics about modern alienation.\" A perfect way to spend the evening.",
 			"icon": "http:\/\/ksassets.timeincuk.net\/wp\/uploads\/sites\/55\/2016\/11\/2016_FickleFriends_Press_071116.jpg",
 			"coverPhotos": ["a", "a"],
 			"startTime": 1497913200,
@@ -106,7 +99,7 @@
 		{
 			"id": 4,
 			"name": "Laura Mvula",
-			"description": "Laura Mvula is a British recording artist, songwriter and pianist. Her debut album, Sing to the Moon, was released on 4 March 2013 with an orchestral re-recording released on 11 August 2014.",
+			"description": "Innovative British singer-songwriter, two-time Mercury Prize nominee and two-time MOBO award winner. Her debut album, Sing to the Moon, was released in 2013 to critical acclaim. Her second album, The Dreaming Room, exceeded the success of her first and won the Ivor Novello Album Award 2017. Keep an eye on main stage for the highlight of this year’s May Ball season.",
 			"icon": "http:\/\/jesusmayball.com\/page-assets\/img\/laura-mvula.jpg",
 			"coverPhotos": ["a", "a"],
 			"startTime": 1497916800,
@@ -118,7 +111,7 @@
 		{
 			"id": 5,
 			"name": "Truly Medly Deeply",
-			"description": "Truly Medley Deeply was set up in 2010 by three teenage undergraduates at Cambridge University. Since the beginning, the band’s unique approach has been to take the best parts of songs and condense them into beautifully-flowing medleys. An incredible hybrid of live band, DJ and jukebox, TMD effortlessly mix between songs, providing slick, seamless arrangements of throwback tunes and contemporary favourites for every audience.",
+			"description": "Ex-cantabs TMD return with mashups of all your favourite tunes. Expect childhood nostalgia as well as all the latest hits",
 			"icon": "https:\/\/static1.squarespace.com\/static\/58dbc89a893fc01cfcc438f5\/58dbe7f05016e15e28a4a264\/58dbeee3b3db2b35751dee73\/1490809409975\/TMD12777.jpg",
 			"coverPhotos": ["a", "a"],
 			"startTime": 1497921300,
@@ -130,7 +123,7 @@
 		{
 			"id": 6,
 			"name": "Julian Banks",
-			"description": "This EDM DJ",
+			"description": "Julian Banks is a world-renowned DJ who has worked with such artists as Aloe Blacc, Bone Thugs 'N Harmony, Capital Cities, and System Of A Down. He has played Coachella's Merv Griffin House next to A-Trak and Bonobo, and spun at some of the largest clubs in Europe including Croatia's famed Revelin Club.",
 			"icon": "https:\/\/i.axs.com\/2016/06\/promoted-media_5752eea1b476a.jpg",
 			"coverPhotos": ["a", "a"],
 			"startTime": 1497924000,
@@ -142,7 +135,7 @@
 		{
 			"id": 7,
 			"name": "Emma Folk Band",
-			"description": "Standard Folk Band",
+			"description": "Instrumental and vocal pieces from British and Irish traditions. This band plays a wide range of dance music for ceilidhs, as well as songs and klezmer.",
 			"icon": "https:\/\/static1.squarespace.com\/static\/58dbc89a893fc01cfcc438f5\/58dbe7f05016e15e28a4a264\/58dbeee3b3db2b35751dee73\/1490809409975\/TMD12777.jpg",
 			"coverPhotos": ["a", "a"],
 			"startTime": 1497929400,
@@ -183,16 +176,17 @@
 			"coverPhotos": ["a", "a"],
 			"startTime": 1497907800,
 			"endTime": 1497909600,
-			"place": "1",
+			"place": "2",
 			"website": "http:\/\/laura.com\/",
 			"rank": 2
 		}
 	],
 
-	"nonMusicEnts": [{
+	"nonMusicEnts": [
+		{
 			"id": 101,
-			"name": "Sillhouette Man",
-			"description": "bae",
+			"name": "Dodgems",
+			"description": "Crash & Bang into friends and enemies as you whizz round the nation's favourite ride!",
 			"icon": "https:\/\/i.imgur.com\/eptXC38.jpg",
 			"coverPhotos": ["a", "a"],
 			"startTime": 1497902400,
@@ -203,8 +197,8 @@
 		},
 		{
 			"id": 102,
-			"name": "Tom Fisher Dancing",
-			"description": "bae",
+			"name": "Twister",
+			"description": "Hold on to your hat! Twirl and spin from side to side on this fun-filled ride!",
 			"icon": "https:\/\/i.imgur.com\/H6wEvLO.jpg",
 			"coverPhotos": ["a", "a"],
 			"startTime": 1497920400,
@@ -215,61 +209,133 @@
 		},
 		{
 			"id": 103,
-			"name": "Harri's Dog",
-			"description": "bae",
+			"name": "Beads",
+			"description": "Create a bracelet for you or a friend!",
 			"icon": "https:\/\/i.imgur.com\/AP6Z6Lw.jpg",
 			"coverPhotos": ["a", "a"],
 			"startTime": 1497902400,
 			"endTime": 1497906000,
-			"place": "2",
+			"place": "6",
 			"website": "http:\/\/laura.com\/",
 			"rank": 1
 		},
 		{
 			"id": 104,
-			"name": "Jane Street Openhouse",
-			"description": "bae",
+			"name": "Miss Elegant",
+			"description": "Spice up your outfit with Glitter or Henna Tattoos!",
 			"icon": "https:\/\/i.imgur.com\/eptXC38.jpg",
 			"coverPhotos": ["a", "a"],
 			"startTime": 1497916800,
 			"endTime": 1497920400,
-			"place": "2",
+			"place": "6",
 			"website": "http:\/\/laura.com\/",
 			"rank": 2
 		},
 		{
 			"id": 105,
-			"name": "Sumo Wrestling",
-			"description": "bae",
+			"name": "Botancial Bus",
+			"description": "Finish off the look with a custom made flower headband.",
 			"icon": "https:\/\/i.imgur.com\/CFEdEHi.jpg",
 			"coverPhotos": ["a", "a"],
 			"startTime": 1497906000,
 			"endTime": 1497909600,
-			"place": "3",
+			"place": "6",
 			"website": "http:\/\/laura.com\/",
 			"rank": 1
 		},
 		{
 			"id": 106,
-			"name": "Man vs. Food",
-			"description": "bae",
+			"name": "Photobooth",
+			"description": "Strike a pose as the camera snaps away!",
 			"icon": "https:\/\/i.imgur.com\/H6wEvLO.jpg",
 			"coverPhotos": ["a", "a"],
 			"startTime": 1497906000,
 			"endTime": 1497909600,
-			"place": "3",
+			"place": "2",
 			"website": "http:\/\/laura.com\/",
 			"rank": 1
 		},
 		{
 			"id": 107,
-			"name": "Meme Contest",
-			"description": "bae",
+			"name": "Aquazorbing",
+			"description": "Tumble and Roll around the pool – just watch your step!",
+			"icon": "https:\/\/i.imgur.com\/AP6Z6Lw.jpg",
+			"coverPhotos": ["a", "a"],
+			"startTime": 1497927600,
+			"endTime": 1497931200,
+			"place": "5",
+			"website": "http:\/\/laura.com\/",
+			"rank": 1
+		},
+		{
+			"id": 108,
+			"name": "Lafayette Photography",
+			"description": "Pose by our authentic Gatsby Cab for a memory of the glitz and glam Old Sport!",
+			"icon": "https:\/\/i.imgur.com\/AP6Z6Lw.jpg",
+			"coverPhotos": ["a", "a"],
+			"startTime": 1497927600,
+			"endTime": 1497931200,
+			"place": "5",
+			"website": "http:\/\/laura.com\/",
+			"rank": 1
+		},
+		{
+			"id": 108,
+			"name": "The Shadow Cutter",
+			"description": "Have your silhouette carved to perfection. It’s all the rage now darling!",
+			"icon": "https:\/\/i.imgur.com\/AP6Z6Lw.jpg",
+			"coverPhotos": ["a", "a"],
+			"startTime": 1497927600,
+			"endTime": 1497931200,
+			"place": "5",
+			"website": "http:\/\/laura.com\/",
+			"rank": 1
+		},
+		{
+			"id": 109,
+			"name": "Escape Room",
+			"description": "Will you make it out on time? Team up with your firends and try and crack the code. Time is not on your side!",
 			"icon": "https:\/\/i.imgur.com\/AP6Z6Lw.jpg",
 			"coverPhotos": ["a", "a"],
 			"startTime": 1497927600,
 			"endTime": 1497931200,
 			"place": "4",
+			"website": "http:\/\/laura.com\/",
+			"rank": 1
+		},
+		{
+			"id": 110,
+			"name": "Churchill Casino",
+			"description": "If cards or dice are your thing, Churchill Casino has it all. Find them in the Hall. How's your poker face?",
+			"icon": "https:\/\/i.imgur.com\/AP6Z6Lw.jpg",
+			"coverPhotos": ["a", "a"],
+			"startTime": 1497927600,
+			"endTime": 1497931200,
+			"place": "4",
+			"website": "http:\/\/laura.com\/",
+			"rank": 1
+		},
+		{
+			"id": 111,
+			"name": "Tarot Card",
+			"description": "Want your own mystery solved? See into your future...if you dare.",
+			"icon": "https:\/\/i.imgur.com\/AP6Z6Lw.jpg",
+			"coverPhotos": ["a", "a"],
+			"startTime": 1497927600,
+			"endTime": 1497931200,
+			"place": "7",
+			"website": "http:\/\/laura.com\/",
+			"rank": 1
+		},
+		{
+			"id": 112,
+			"name": "Taxi Photobooth",
+			"description": "Take a snap in our mysterious taxi. Pose with props and keep a souvenir.",
+			"icon": "https:\/\/i.imgur.com\/AP6Z6Lw.jpg",
+			"coverPhotos": ["a", "a"],
+			"startTime": 1497927600,
+			"endTime": 1497931200,
+			"place": "7",
 			"website": "http:\/\/laura.com\/",
 			"rank": 1
 		}
@@ -548,7 +614,7 @@
 			"imageURL": "a",
 			"startTime": 1497909600,
 			"endTime": 1497924000,
-			"place": "6",
+			"place": "4",
 			"website": "a",
 			"available": true
 		},
@@ -560,7 +626,7 @@
 			"imageURL": "a",
 			"startTime": 1497909600,
 			"endTime": 1497924000,
-			"place": "6",
+			"place": "4",
 			"website": "a",
 			"available": true
 		},
@@ -572,7 +638,7 @@
 			"imageURL": "a",
 			"startTime": 1497909600,
 			"endTime": 1497924000,
-			"place": "6",
+			"place": "4",
 			"website": "a",
 			"available": true
 		},
@@ -584,7 +650,7 @@
 			"imageURL": "a",
 			"startTime": 1497909600,
 			"endTime": 1497924000,
-			"place": "6",
+			"place": "4",
 			"website": "a",
 			"available": true
 		},
