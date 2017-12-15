@@ -18,6 +18,6 @@
             "title": "Alert!!!!!",
             "desc": "Another alert description",
             "timestamp": 123456
-        },
+        }
     ]
 }
